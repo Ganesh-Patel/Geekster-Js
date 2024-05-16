@@ -39,6 +39,10 @@ Additionally, the README should include instructions on how to view the hosted v
 
 Access the live version of the project [here](https://ganesh-patel.github.io/Geekster-Js/Dom-Assignment1/index.html).
 
+
+<img width="1247" alt="Screenshot 2024-05-17 at 12 12 45 AM" src="https://github.com/Ganesh-Patel/Geekster-Js/assets/148999574/66452424-ee6c-4e23-8190-093f73f3b078">
+
+
 Ensure that the link is accessible and functional.
 
 ## Additional Notes
