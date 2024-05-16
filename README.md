@@ -42,6 +42,4 @@ Access the live version of the project [here](https://ganesh-patel.github.io/Gee
 Ensure that the link is accessible and functional.
 
 ## Additional Notes
-
-- Replace the live version link with the actual hosted link before publishing the README.
 - Feel free to customize the styling of the `<div>` element or add more features to the project as needed.
