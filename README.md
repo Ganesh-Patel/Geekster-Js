@@ -1,4 +1,4 @@
-# Assignment Task README
+# DOM project 1
 
 This repository contains code for the assignment task provided. The task involves styling a `<div>` element dynamically using JavaScript and providing clear instructions on how to view the hosted version of the project.
 
